@@ -16,6 +16,7 @@
 body {
     font-family: var(--body-font);
     color: var(--accent1-color);
+    background-color: var(--secondary-color);
 }
 
 header,
@@ -80,7 +81,7 @@ header img {
     bottom: 24px;
     left: 24px;
     right: 24px;
-    background-color: rgba(233, 196, 106, 0.9);
+    background-color: var(--accent2-color);
     color: #111;
 }
 
